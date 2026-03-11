@@ -14,7 +14,6 @@
 -- Error handling : Single TRY/CATCH wraps the entire procedure.
 --                  On failure: prints table name, error message, line, and severity then re-throws.
 -- Execution : EXEC silver.load_silver;
--- Author    : Data Engineering Team
 -- ============================================================================================================================
 
 IF OBJECT_ID('silver.load_silver', 'P') IS NOT NULL
