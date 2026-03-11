@@ -12,7 +12,6 @@
 --               [Format]      – values must match expected domain / range
 --               [Referential] – join keys must resolve across tables
 --               [Dates]       – temporal integrity rules
--- Author    : Data Engineering Team
 -- ============================================================================================================================
 
 
