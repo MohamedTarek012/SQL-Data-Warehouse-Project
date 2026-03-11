@@ -6,7 +6,6 @@
 -- Sources   : CRM system (lowercase files) and ERP system (UPPERCASE files)
 -- Actions   : CREATE TABLE for each of the 6 entities  (schema [silver] already exists).
 -- Run once  : Safe to re-run – each table is dropped and recreated if it already exists.
--- Author    : Data Engineering Team
 -- ============================================================================================================================
 
 
