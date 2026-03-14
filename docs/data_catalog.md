@@ -155,7 +155,7 @@ Cleaned and standardised tables. Loaded via `EXEC silver.load_silver`. All six t
 
 > 📌 **Figure 2 – Integration Model**
 >
-> ![Integration Model](figures/02_integration_model.png)
+> ![Integration Model](docs/integration_model.png)
 >
 > *Place your integration model diagram here — showing how the six Silver tables relate to each other and what keys connect them.*
 
@@ -261,7 +261,7 @@ Business-ready views on top of Silver. No physical storage — always reflects t
 
 > 📌 **Figure 3 – Data Flow**
 >
-> ![Data Flow](figures/03_data_flow.png)
+> ![Data Flow](docs/data-flow-diagram.png)
 >
 > *Place your data flow diagram here — showing the end-to-end movement of data from source files through Bronze → Silver → Gold and into reporting.*
 
