@@ -40,7 +40,7 @@ A full end-to-end data warehouse project built on **Microsoft SQL Server** using
 
 > 📌 **Figure 1 – High-Level Data Architecture**
 >
-> ![High-Level Data Architecture](docs/flow-High-level-Data-Architecture)
+> ![High-Level Data Architecture](docs/flow-High-level-Data-Architecture.png)
 >
 > *End-to-end view of the warehouse layers — from raw source files to Gold analytics views.*
 
