@@ -155,7 +155,7 @@ Cleaned and standardised tables. Loaded via `EXEC silver.load_silver`. All six t
 
 > 📌 **Figure 2 – Integration Model**
 >
-> ![Integration Model](docs/Integration-model.png)
+> ![Integration Model](Integration-model.png)
 >
 > *Place your integration model diagram here — showing how the six Silver tables relate to each other and what keys connect them.*
 
