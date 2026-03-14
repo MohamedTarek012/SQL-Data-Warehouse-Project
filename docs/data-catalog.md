@@ -35,7 +35,7 @@
 
 > 📌 **Figure 1 – High-Level Data Architecture**
 >
-> ![High-Level Data Architecture](docs/flow-High-level-Data-Architecture.png)
+> ![High-Level Data Architecture](flow-High-level-Data-Architecture.png)
 >
 > *Place your high-level architecture diagram here.*
 
