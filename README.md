@@ -40,7 +40,7 @@ A full end-to-end data warehouse project built on **Microsoft SQL Server** using
 
 > 📌 **Figure 1 – High-Level Data Architecture**
 >
-> ![High-Level Data Architecture](docs/data flow-High-level Data Architecture.drawio.png)
+> ![High-Level Data Architecture](docs/flow-High-level-Data-Architecture)
 >
 > *End-to-end view of the warehouse layers — from raw source files to Gold analytics views.*
 
@@ -50,7 +50,7 @@ A full end-to-end data warehouse project built on **Microsoft SQL Server** using
 
 > 📌 **Figure 2 – Integration Model**
 >
-> ![Integration Model](docs/figures/02_integration_model.png)
+> ![Integration Model](docs/Integration-model.png)
 >
 > *How the six Silver tables relate to each other and which keys connect CRM and ERP sources.*
 
@@ -277,4 +277,4 @@ Checks include:
 
 ## Documentation
 
-Full column-level documentation for all layers is available in [`docs/data_catalog.md`](docs/data_catalog.md).
+Full column-level documentation for all layers is available in (docs/data_catalog.md).
