@@ -277,4 +277,4 @@ Checks include:
 
 ## Documentation
 
-Full column-level documentation for all layers is available in (docs/data_catalog.md).
+Full column-level documentation for all layers is available in(docs/data_catalog.md).
