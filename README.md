@@ -60,7 +60,7 @@ A full end-to-end data warehouse project built on **Microsoft SQL Server** using
 
 > 📌 **Figure 3 – Data Flow**
 >
-> ![Data Flow](docs/figures/03_data_flow.png)
+> ![Data Flow](docs/data-flow-diagram.png)
 >
 > *Step-by-step movement of data from source files through Bronze → Silver → Gold → Reporting.*
 
